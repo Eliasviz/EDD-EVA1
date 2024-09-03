@@ -10,7 +10,7 @@ package eval1_6_arreglos;
  *
  * @author invitado
  */
-public class EVAL1_6_ARREGLOS {
+public class EVA1_6_ARREGLOS {
 
     /**
      * @param args the command line arguments
